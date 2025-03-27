@@ -1,0 +1,4 @@
+  The Jupyter Notebook conducts a Regression Analysis of CO2 Emissions on several factors including: coal prices, electricity prices, petroleum 
+prices, natural gas prices, total population, state GDP, and gdp per capita of each state. The main idea is to also highlight the significance of 
+Year and State Fixed effects, which I included 3 separate regressions for. Keep in mind: in the Jupyter Notebook, however, the final descriptions 
+of the results (The "INTERPRETATIONS" sections) Only covers the State Fixed Effects, and not the Year.
