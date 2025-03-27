@@ -1,0 +1,6 @@
+  The notebook above covers mortality rates in the US against individual states spending on education and other health services. The focus in on 
+differences of regressors between each state and thru the years 1993 to 2015, but also for 3 different age groups: 0-18, 18-19-64, 64+. Some of the
+regressors include: median income, education spending, taxes and so on. The relationship between each regressor is tested on each other (for 
+multicollinearity) and on mortality statistics such as life expectancy,  # of deaths, and probability of death. Also mentioned in the Notebook, 
+the increased number of files uploaded is due to each individual expenditure and education statistics per year. **Interpretations in notebook 
+coming soon**
